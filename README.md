@@ -15,5 +15,5 @@ The dataset contains sales record including:
 ## Tool Used
 - SQL (SQL Server)
 - Github for portfolio hosting
- ##
+ ## THIS PROJECT IS BASED ON A GUIDED PROJECT BY DATA WITH BARAA FROM YouTube
   
